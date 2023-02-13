@@ -2,8 +2,10 @@ Name : Charitha
 Branch : AIML
 Roll no. : 145
 Email : charitha@gmail.com
+Clg : XYZ 
 
 Name : Janu
 Branch : AIML
 Roll no. : 146
 Email : janu@gmail.com
+Clg : XYZ
